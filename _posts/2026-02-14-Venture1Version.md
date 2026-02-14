@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "wenture b0.0.0.0.1Version"
+title:      "Venture b0.0.0.0.1版本"
 author:     "ChenZiyan"
 header-style: text
 tags:
