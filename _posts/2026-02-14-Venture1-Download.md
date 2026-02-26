@@ -8,4 +8,4 @@ tags:
 ---
 
 此链接2026年2月15日01：57：00前有效
-[32、64位 下载](https://download.zoho.com.cn/v1/workdrive/download/lycmy5b09f60e73574f0787acc89dc9eaa96a?x-cli-msg=%7B%22isFileOwner%22%3Atrue%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D)
+[32、64位 下载](https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/ef7ccd61484f639c/Venture1hb beta0.0.0.0.1.zip)
